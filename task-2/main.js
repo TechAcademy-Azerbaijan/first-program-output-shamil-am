@@ -1,1 +1,1 @@
-// Write code here
+console.log("a\nbb\nccc")
